@@ -90,7 +90,7 @@ const Home: NextPage = () => {
                                 </div>
 
                                 <div className={ styles.buttonFlex }> 
-                                    <div className={ styles.button }><a target="_blank" rel="noreferrer" href='https://drive.google.com/file/d/1SSCBGhTA00TQcjbma9LzMx64PcHDMvQD/view?usp=sharing'>{ translations.buttons.cv }</a></div> 
+                                    <div className={ styles.button }><a target="_blank" rel="noreferrer" href='https://drive.google.com/file/d/1Ey7jTtUEZthdiCDSYBH81EX_Nrp85ioh/view?usp=sharing'>{ translations.buttons.cv }</a></div> 
                                 </div>
                             </div>
                         </div> 
